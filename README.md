@@ -27,3 +27,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+## Talks
+
+### 2023
+
+* [**FOSSASIA Summit 2023**:
+  The Bumpy Road of Bringing a Machine Learning Model From Development to Production - Part 2: Infrastructure, Testing, Productionalization, and Monitoring](https://youtu.be/76Wko6jsd9E)
+* [**Berlin Buzzwords 2023**:
+  Building MLOps Infrastructure at Japan's Largest C2C E-Commerce Platform](https://youtu.be/11xxPUSJTss)
+
+### 2024
+
+* [**FOSSASIA Summit 2024**:
+  Unleashing the Potential of AI Through Search Ranking: How Mercari Uses Data & Science to Drive Marketplace Growth](https://youtu.be/7FEwBj6Mvys?t=6298)
+* [**Weights & Biases Fully Connected 2024** (San Francisco):
+  How Mercari is Using Gen AI to Define the Future of Japanese C2C E-commerce](https://youtu.be/Ze0OwPedJjg)
+* [**Berlin Buzzwords 2024**:
+  Robust AI Search Ranking for Radical C2C Marketplace Growth](https://youtu.be/ultbLz1y4OI)
+  * [Mercari @ Berlin Buzzwords 2024! A closeup.](https://youtu.be/PrPmrUWLzTM)
+* [**Weights & Biases Fully Connected 2024** (Tokyo):
+  The Gen AI Powering the Next Generation of the Mercari Marketplace](https://youtu.be/fvZSaHTarfE)
+
+### 2025
+
+* *[Coming Soon]* **FOSSASIA Summit 2025**: LLMOps for Eval-Driven Development at Scale  
