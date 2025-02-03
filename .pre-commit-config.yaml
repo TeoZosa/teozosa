@@ -1,0 +1,22 @@
+---
+repos:
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.26.3
+    hooks:
+      - id: yamllint
+        args: ['-d {extends: default, rules: {line-length: {max: 120, level: warning}}}']
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.1.0
+    hooks:
+      - id: check-added-large-files  # Ignored for git-lfs files
+        args: [--maxkb=100000]  # 100MB
+      - id: check-ast
+      - id: debug-statements
+      - id: end-of-file-fixer  # Ensure files ONLY end in a newline
+        exclude_types: [jupyter]
+      - id: pretty-format-json  # Sort and indent
+        args: [--autofix]
+        exclude: ^(\.cruft\.json)$
+      - id: trailing-whitespace  # Trim
+        args: [--markdown-linebreak-ext=md]
