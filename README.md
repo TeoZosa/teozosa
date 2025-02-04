@@ -1,6 +1,6 @@
 # Howdy! I'm Teo, great to meet you :wave:
 
-I build production ML systems at scale by any means necessary.
+I build production ML systems that deliver customer impact at scale by any means necessary.
 
 * Sometimes this means getting in the weeds wrangling raw data; training and evaluating models; or setting up super
   reliable high-throughput, low-latency[^1], highly-observable online/offline ML feature and model serving systems.
