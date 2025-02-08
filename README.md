@@ -10,7 +10,7 @@ I build production ML systems that deliver customer impact at scale by any means
 * No matter what, it always means listening to the people we're serving, making sure we're solving the most important
   problems, and thinking beyond what's possible to what is actually needed to add the most value to our customers[^2].
 
-[^1]: My current personal record was for an AI Search Ranking system at Mercari:
+[^1]: My current personal record was for an AI search ranking system at Mercari:
 
     1. **Offline** data & model training pipelines that processed petabytes of data.
     2. **Online** serving system that handled nearly 6K RPS of search traffic with average e2e latency <35ms (p95
@@ -20,8 +20,8 @@ I build production ML systems that deliver customer impact at scale by any means
         2. **Feature store** that served over 3.5M read/write RPS with average read latency <3ms (p95 <10ms).
         3. **Model server** that handled nearly 6K RPS with average read latency <13ms (p95 <38ms).
 
-[^2]: If A/B tests are at least a decent proxy for customer value, the work I spearheaded at Mercari in AI Search
-Ranking led to a projected $50M/year revenue increase.
+[^2]: If A/B tests are at least a decent proxy for customer value, the work I spearheaded at Mercari in AI search
+ranking led to a projected $50M/year revenue increase.
 
 I'm currently focus-firing all of the above as a Staff Machine Learning Engineer at [Mercari](https://jp.mercari.com/),
 Japan’s largest C2C e-commerce marketplace, to support the world-class AI teams and applications across the company.
