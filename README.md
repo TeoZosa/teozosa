@@ -10,7 +10,7 @@ I build production ML systems that deliver customer impact at scale by any means
 * No matter what, it always means listening to the people we're serving, making sure we're solving the most important
   problems, and thinking beyond what's possible to what is actually needed to add the most value to our customers[^2].
 
-[^1]: My current personal record was for an AI Search Ranking system at [Mercari](https://jp.mercari.com/):
+[^1]: My current personal record was for an AI Search Ranking system at Mercari:
 
     1. **Offline** data & model training pipelines that processed petabytes of data.
     2. **Online** serving system that handled nearly 6K RPS of search traffic with average e2e latency <35ms (p95
