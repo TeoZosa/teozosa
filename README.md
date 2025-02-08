@@ -20,7 +20,7 @@ I build production ML systems that deliver customer impact at scale by any means
         2. **Feature store** that served over 3.5M read/write RPS with average read latency <3ms (p95 <10ms).
         3. **Model server** that handled nearly 6K RPS with average read latency <13ms (p95 <38ms).
 
-[^2]: If A/B tests are at least a decent proxy for customer value, the work I spearheaded at Mercari in AI search
+[^2]: If A/B test results are at least a decent proxy for customer value, the work I spearheaded at Mercari in AI search
 ranking led to a projected $50M/year revenue increase.
 
 I'm currently focus-firing all of the above as a Staff Machine Learning Engineer at [Mercari](https://jp.mercari.com/),
