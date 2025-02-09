@@ -23,7 +23,7 @@ I build production ML systems that deliver customer impact at scale by any means
 [^2]: If A/B test results are at least a decent proxy for customer value, my work at Mercari drove an additional
 $50M+/year in projected revenue, in addition to major uplifts in search user experience metrics.
 
-I'm currently focus-firing all of the above as a Staff Machine Learning Engineer at [Mercari](https://jp.mercari.com/),
+I'm currently focus-firing all of the above as a Staff ML Engineer at [Mercari](https://jp.mercari.com/),
 Japan’s largest C2C e-commerce marketplace, to support the world-class AI teams and applications across the company.
 
 <!--
