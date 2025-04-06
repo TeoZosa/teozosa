@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 
 ### 2025
 
-* *[Coming Soon]* **FOSSASIA Summit 2025**: LLMOps for Eval-Driven Development at Scale[^5]  
+* [**FOSSASIA Summit 2025**: LLMOps for Eval-Driven Development at Scale](https://youtu.be/GyHY4g93kPk)[^5]  
 
 [^5]: w/ [`@jehandadk`](https://github.com/jehandadk)
